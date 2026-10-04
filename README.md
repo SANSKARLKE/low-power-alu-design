@@ -74,9 +74,3 @@ report_power -name structural_power_signoff_report
 
 ## 🏛 Industrial Relevance
 The signoff methodology utilized in this project mirrors the exact protocols used by enterprise VLSI teams designing modern microprocessors and Systems-on-Chip (SoCs). While compiled here on an FPGA fabric, this exact front-end RTL input-gating architecture is regularly fed into premier industrial ASIC signoff tools to manage severe power and thermal profiles before final multi-million dollar silicon foundry tape-outs.
-
----
-
-## ✒️ Author
-* **Sanskar Chaudhary**
-* Department of Electrical and Electronics Engineering
